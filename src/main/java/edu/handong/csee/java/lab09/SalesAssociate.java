@@ -11,7 +11,7 @@ public class SalesAssociate {//class name is SalesAssociate
 	private double sales;//this is for receiving sales
 	
 	/**
-	 * this method is set name ane sales
+	 * this method is set name and sales->constructor
 	 */
 	public void SalesAssociate() {//this method no has return value
 		this.name = null;//this class name is initialization to null
